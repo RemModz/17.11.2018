@@ -1,0 +1,32 @@
+.hero {
+    background-image: url('https://images.unsplash.com/photo-1506452305024-9d3f02d1c9b5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a64e08e45ee34a9212d6346478126112&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: 100%; 
+    padding: 2rem 0 0 2rem;
+
+}
+
+.hero__headline{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #ffff;
+    font-size: 1.2rem;
+}
+
+.hero__button{
+    font-family: 'Roboto', sans-serif;
+    color: #ffff;
+    font-size: 1.2rem;
+    background-color: transparent;
+    border: 2px sold;
+    margin-top: 4rem;
+    display: block;
+    margin: auto;
+    padding: 1rem 2rem 1rem 2rem;
+    
+
+
+}
+
